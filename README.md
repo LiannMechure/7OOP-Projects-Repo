@@ -1,20 +1,19 @@
-
 <p align="center">
   <img src="https://github.com/LiannMechure/7OOP-Projects-Repo/blob/main/picture/03aff5c5-8bd0-4bc6-b948-406d00fe19ee.jpg" height="250"/>
 </p>
 
-## 🎇 About Me
+## 🎇 About Me 🎇
 Hi my name is Liann Mechure, I'm a Computer Science student at City College of Angeles. I love learning things that I find interesting such as programming, logical reasoning, and mathematics though I'm average, especially my programming skills is somewhat subpar.  My goal this year is to enhance my knowledge regarding programming, I want to be able use and understand programming efficiently, and to explore more programming languages. I'm easy to get along, though I'm not a talkative person. The field that I want to specialize in is Data Analyst and Cyber Security.
 
 ---
 
-## 💎 Area of Interest & Programming Language
+## 💎 Area of Interest & Programming Language 💎
 ### Area of Interest:
-- Data Analyst 📈
-- Cyber Security 🤖
-- Logical Reasoning 🧠
-- Research 📔
-- Game Development 🎮
+  - Data Analyst 📈
+  - Cyber Security 🤖
+  - Logical Reasoning 🧠
+  - Research 📔
+  - Game Development 🎮
 ---
 ### Programming Language:
 <div align="left">
@@ -25,22 +24,23 @@ Hi my name is Liann Mechure, I'm a Computer Science student at City College of A
 
 ---
 
-## 📰 My Projects  
+## 📰 My Projects 📰
 ### 1️⃣ Midterms
-Soon...
+  Soon...
+  
+---
 ### 2️⃣ Finals
-Soon...
+  Soon...
 
 --- 
 
 ## 🔥 Fun Facts About Me !!
-
-- I prefer cats more than dogs
-- Reading Mangas/Manhwas give me comfort
-- Strawberry Milk is my go to drink
-- I was born prematurely (7 months)
-- When I was born I couldn't breathe on my own
-- I often break my glasses (I have 10 broken glasses)
+  - I prefer cats more than dogs 🐈
+  - Reading Mangas/Manhwas give me comfort 📚
+  - Strawberry Milk is my go to drink 🍓
+  - I was born prematurely (7 months) 🍼
+  - When I was born I couldn't breathe on my own 👶
+  - I often break my glasses (I have 10 broken glasses) 👓
 
 ---
 
