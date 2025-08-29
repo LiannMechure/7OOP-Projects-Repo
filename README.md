@@ -10,7 +10,9 @@ Hi my name is **Liann Mechure**, I'm a Computer Science student at **City Colleg
   - Logical Reasoning 🧠
   - Research 📔
   - Game Development 🎮
+
 ---
+
 ### Programming Language:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -25,6 +27,7 @@ Hi my name is **Liann Mechure**, I'm a Computer Science student at **City Colleg
   *Soon...*
   
 ---
+
 ### 2️⃣ Finals
   *Soon...*
 
