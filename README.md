@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://github.com/LiannMechure/7OOP-Projects-Repo/raw/main/picture/03aff5c5-8bd0-4bc6-b948-406d00fe19ee.jpg"  />
+<img align="left" height="230" src="https://github.com/LiannMechure/7OOP-Projects-Repo/raw/main/picture/03aff5c5-8bd0-4bc6-b948-406d00fe19ee.jpg"  />
 
 ### 🎇 About Me 🎇
 Hi my name is **Liann Mechure**, I'm a Computer Science student at **City College of Angeles**. I love learning things that I find interesting such as programming, logical reasoning, and mathematics though I'm average,   especially my programming skills is somewhat subpar.  My goal this year is to enhance my knowledge regarding programming, I want to be able use and understand programming efficiently, and to explore more programming languages. I'm easy to get along, though I'm not a talkative person. The field that I want to specialize in is Data Analyst and Cyber Security.
