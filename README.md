@@ -27,7 +27,7 @@ Hi my name is **Liann Mechure**, I'm a Computer Science student at **City Colleg
 
 ## 📰 My Projects 📰
 ### 1️⃣ Midterms
-  [Midterms Paired Task 1.](midterms/Midterms Paired Task 1 - Mechure.pdf)
+  [Midterms Paired Task 1.](https://github.com/LiannMechure/7OOP-Projects-Repo/blob/60dcf67d3b57cc705ea430787cba1aafd5279299/midterms/Midterms%20Paired%20Task%201%20-%20Mechure.pdf)
   
 ---
 
