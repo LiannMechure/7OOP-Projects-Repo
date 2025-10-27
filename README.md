@@ -28,6 +28,11 @@ Hi my name is **Liann Mechure**, I'm a Computer Science student at **City Colleg
 ## 📰 My Projects 📰
 ### 1️⃣ Midterms
   [Midterms Paired Task 1.](https://github.com/LiannMechure/7OOP-Projects-Repo/blob/60dcf67d3b57cc705ea430787cba1aafd5279299/midterms/Midterms%20Paired%20Task%201%20-%20Mechure.pdf)
+  [Midterms Lab Task 1.](https://github.com/LiannMechure/7OOP-Projects-Repo/blob/cd41eb09b077b5e2de905f3d63bb90c190ab4960/midterms/Midterms%20Lab%20Task%201%20-%20Mechure.pdf)
+  [Midterms Lab Task 2.](https://github.com/LiannMechure/7OOP-Projects-Repo/blob/cd41eb09b077b5e2de905f3d63bb90c190ab4960/midterms/Midterms%20Lab%20Task%202%20-%20Mechure.pdf)
+  [Midterms Lab Task 3.](https://github.com/LiannMechure/7OOP-Projects-Repo/blob/cd41eb09b077b5e2de905f3d63bb90c190ab4960/midterms/Midterms%20Lab%20Task%203%20-%20Mechure.pdf)
+  [Midterms Lab Task 4.](https://github.com/LiannMechure/7OOP-Projects-Repo/blob/cd41eb09b077b5e2de905f3d63bb90c190ab4960/midterms/Midterms%20Lab%20Task%204%20-%20Mechure.pdf)
+  [Midterms Lab Task 5.](https://github.com/LiannMechure/7OOP-Projects-Repo/blob/cd41eb09b077b5e2de905f3d63bb90c190ab4960/midterms/Midterms%20Lab%20Task%205%20-%20Mechure.pdf)
   
 ---
 
