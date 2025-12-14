@@ -40,6 +40,11 @@ Hi my name is **Liann Mechure**, I'm a Computer Science student at **City Colleg
 
 ### 2️⃣ Finals
   - [**Finals Lab Task 1**](https://github.com/LiannMechure/7OOP-Projects-Repo/blob/b77a8bce411b8167947acbedd92263f663cfe8e2/finals/Finals%20Lab%20Task%201%20-%20Encapsulation%20-%20Mechure.pdf) - _Encapsulation_<br>
+  - [**Finals Lab Task 2**](https://github.com/LiannMechure/7OOP-Projects-Repo/blob/main/finals/Finals%20Lab%20Task%202%20-%20Inheritance%20-%20Mechure.pdf) - _Inheritance_<br>
+  - [**Finals Lab Task 3**](https://github.com/LiannMechure/7OOP-Projects-Repo/blob/main/finals/Finals%20Lab%20Task%203%20-%20Polymorphism%20-%20Mechure.pdf) - _Polymorphism_<br>
+  - [**Finals Lab Task 4**](https://github.com/LiannMechure/7OOP-Projects-Repo/blob/main/finals/Finals%20Lab%20Task%204%20-%20Python%20and%20Tkinter%20GUI%20Program%20-%20Mechure.pdf) - _Python and Tkinter GUI Program_<br>
+  - [**Finals Lab Task 5**](https://github.com/LiannMechure/7OOP-Projects-Repo/blob/main/finals/Finals%20Lab%20Task%205%20-%20CLI%20using%20Mysql%20and%20Python%20-%20Mechure.pdf) - _CLI using Mysql and Python_<br>
+  - [**Finals Lab Task 6**](https://github.com/LiannMechure/7OOP-Projects-Repo/blob/main/finals/Finals%20Lab%20Task%206%20-%20Mysql%20and%20Tkinter%20HUI%20-%20Mechure.pdf) - _Mysql and Tkinter HUI_<br>
 
 --- 
 
